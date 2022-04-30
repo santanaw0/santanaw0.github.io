@@ -3,9 +3,9 @@ html {
     font-size:16px;
 }
 
-header, 
+header,
 main {
-    
+
     margin:0 auto;
     width:80%;
 }
@@ -49,7 +49,7 @@ caption {
 }
 
 img {
-    
+
     width:100%; max-width:4.53125rem;
-    
+
 }
