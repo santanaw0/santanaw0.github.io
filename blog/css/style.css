@@ -229,7 +229,7 @@ nav a {
   font-size: 1.5rem;
   font-family: lato, arial, sans-serif;
   color: #28234b;
-  float: center;2
+  float: center;
 }
 
 nav {
@@ -271,4 +271,14 @@ footer {
 
 footer a {
   color: Gray;
+}
+
+button:hover {
+  background-color: black;
+  text-transform: uppercase;
+}
+
+button:active {
+  background-color: #90211A;
+  text-transform: uppercase;
 }
